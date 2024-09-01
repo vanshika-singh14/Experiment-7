@@ -6,7 +6,7 @@ C++ arrays are collections of elements with the same types that are stored toget
 In C++, strings can be managed using C-style strings or by using the `string` class from the Standard Library. In this programming language, strings are sequences of characters terminated by a null character (`\0`). Operations on C-style strings are performed using functions from the C standard library, such as `strlen`, `strcpy`, and `strcat`.
 ### code:
 a
-# include <iostream>  
+#include <iostream>  
 using namespace std;
 int main()
 {
@@ -35,7 +35,7 @@ int main()
 }
 
 b
-# include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -71,7 +71,7 @@ int main()
     return 0;
 }
 c
-# include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -108,7 +108,7 @@ int main()
 
 }
 d
-# include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -141,7 +141,7 @@ int main()
 
 }
 e
-# include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -229,7 +229,8 @@ c)![image](https://github.com/user-attachments/assets/7f88b1c0-3e8f-43e1-a908-e9
 d)![image](https://github.com/user-attachments/assets/f136e7e1-3faa-4a52-9a4d-434ebe19378f)
 e)![image](https://github.com/user-attachments/assets/9456e549-beaf-4213-b7a2-e2dabd22dc3e)
 f)![image](https://github.com/user-attachments/assets/af59ed80-60ea-4062-b18a-4a1e20106031)
-## Conclusion
+
+## Conclusion:
 → We learnt the use case of arrays in C++.
 → We learnt how to perform basic string manipulations in C++.
 
